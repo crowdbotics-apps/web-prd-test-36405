@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-billing](screens/billing)
 - [react-native-app-menu](modules/app-menu)
 - [screen-add-payment-method](screens/add-payment-method)
+- [screen-about-the-app](screens/about-the-app)
 
 # Getting started: Frontend
 
